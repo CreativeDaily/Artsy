@@ -1,4 +1,4 @@
-# Blendy
+# Artsy Stuff
 Blender models created regularly just for fun.
 
 I'm try to do two things with this repository:
